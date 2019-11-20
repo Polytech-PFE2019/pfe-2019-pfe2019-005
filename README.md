@@ -1,2 +1,2 @@
 Projet sur gitlab
-https://gitlab.com/AlexisDefranoux/pfe2019-005-mome
+https://gitlab.com/pfe2019-005-mome
